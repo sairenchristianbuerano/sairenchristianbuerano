@@ -2,7 +2,8 @@
 
 **Full-Stack Software Engineer** · ~5 years shipping production software · Open to part-time & freelance work
 
-🏢 Software Engineer at **[Trustabl AI](https://trustabl.ai)** · previously **[Carbonetes](https://www.carbonetes.com)**
+🏢 Software Engineer at **[Hooli Software](https://www.hoolisoftware.com/services/)** and **[Trustabl AI](https://trustabl.ai)** · previously **[Carbonetes](https://www.carbonetes.com)**
+📍 Philippines 🇵🇭
 
 I build and maintain real-world systems — from enterprise security platforms to AI agent tooling — and I care about shipping reliable, well-documented code that businesses can depend on.
 
@@ -57,6 +58,7 @@ Security tooling (SAST, SBOM, vulnerability scanning) · REST APIs · Git · CI/
 
 ## 💼 Experience
 
+- **Software Engineer @ [Hooli Software](https://www.hoolisoftware.com/services/)** *(current)* — software development services
 - **Software Engineer @ [Trustabl AI](https://trustabl.ai)** *(current)* — AI agent reliability & tool hardening; built the entire CI/CD integration suite above
 - **Software Engineer @ [Carbonetes](https://www.carbonetes.com)** — container application security platform (SaaS); shipped open-source scanners
 
