@@ -62,8 +62,9 @@ Contributor to security tools used by real organizations:
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?logo=azuredevops&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white)
 
-Security tooling (SAST, SBOM, vulnerability scanning) · REST APIs · Git · CI/CD architecture
+Security tooling (SAST, SBOM, vulnerability scanning) · REST APIs · Git · CI/CD architecture · AI-assisted engineering — I use **Claude (Claude Code)** daily to ship faster without cutting corners
 
 ---
 
