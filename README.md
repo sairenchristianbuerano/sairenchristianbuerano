@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer** · ~5 years shipping production software · Open to part-time & freelance work
 
-🏢 Software Engineer at **[Hooli Software](https://www.hoolisoftware.com/services/)** and **[Trustabl AI](https://trustabl.ai)** · previously **[Carbonetes](https://www.carbonetes.com)**
+🏢 Software Engineer at **[Trustabl AI](https://trustabl.ai)** · previously **[Hooli Software](https://www.hoolisoftware.com/services/)** and **[Carbonetes](https://www.carbonetes.com)**
 📍 Philippines 🇵🇭
 
 I build and maintain real-world systems — from enterprise security platforms to AI agent tooling — and I care about shipping reliable, well-documented code that businesses can depend on.
@@ -27,6 +27,13 @@ Designed, built, and published the full CI/CD integration lineup for [Trustabl](
 | Bitbucket | Pipelines Pipe | [Docker Hub](https://hub.docker.com/r/trustabl/trustabl-pipe) |
 
 *Bash, TypeScript, Docker, jq, four different CI/CD platform APIs — same scoring engine, four native developer experiences.*
+
+### Trustabl core — the scanner behind the suite
+
+| Project | What it does |
+|---|---|
+| [trustabl](https://github.com/trustabl/trustabl) | Static reliability/safety analyzer for AI agent repos (Claude Agent SDK, OpenAI Agents SDK, Google ADK, MCP) |
+| [trustabl-rules](https://github.com/trustabl/trustabl-rules) | Detection rule packs powering the scanner — resolved at scan time, no rebuild needed |
 
 ### Open-source security tooling — Carbonetes
 
@@ -61,8 +68,8 @@ Security tooling (SAST, SBOM, vulnerability scanning) · REST APIs · Git · CI/
 
 ## 💼 Experience
 
-- **Software Engineer @ [Hooli Software](https://www.hoolisoftware.com/services/)** *(current)* — software development services
 - **Software Engineer @ [Trustabl AI](https://trustabl.ai)** *(current)* — AI agent reliability & tool hardening; built the entire CI/CD integration suite above
+- **Software Engineer @ [Hooli Software](https://www.hoolisoftware.com/services/)** — software development services
 - **Software Engineer @ [Carbonetes](https://www.carbonetes.com)** — container application security platform (SaaS); shipped open-source scanners
 
 ## 🤝 What I'm Looking For
