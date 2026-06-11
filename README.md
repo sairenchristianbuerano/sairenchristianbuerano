@@ -4,10 +4,12 @@
 
 🏢 Software Engineer at **[Trustabl AI](https://trustabl.ai)** · previously **[Hooli Software](https://www.hoolisoftware.com/services/)** and **[Carbonetes](https://www.carbonetes.com)**
 🔧 Member of the **[Jenkins CI](https://github.com/jenkinsci)** GitHub organization — [verify here](https://github.com/orgs/jenkinsci/people?query=sairen)
+🌐 Portfolio: **[sairenchristianbuerano.github.io/portfolio](https://sairenchristianbuerano.github.io/portfolio/)**
 📍 Philippines 🇵🇭
 
 I build and maintain real-world systems — from enterprise security platforms to AI agent tooling — and I care about shipping reliable, well-documented code that businesses can depend on.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-FF5A00?logo=googlechrome&logoColor=white)](https://sairenchristianbuerano.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-sairenchristianrbuerano%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:sairenchristianrbuerano@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sairen%20Buerano-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sairen-christian-r-buerano-43892727b/)
 [![OnlineJobs.ph](https://img.shields.io/badge/OnlineJobs.ph-Profile-2E7D32)](https://v2.onlinejobs.ph/jobseekers/info/709812)
