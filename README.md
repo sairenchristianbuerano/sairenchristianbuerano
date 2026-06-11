@@ -2,6 +2,8 @@
 
 **Full-Stack Software Engineer** · ~5 years shipping production software · Open to part-time & freelance work
 
+🏢 Software Engineer at **[Trustabl AI](https://trustabl.ai)** · previously **[Carbonetes](https://www.carbonetes.com)**
+
 I build and maintain real-world systems — from enterprise security platforms to AI agent tooling — and I care about shipping reliable, well-documented code that businesses can depend on.
 
 [![Email](https://img.shields.io/badge/Email-sairenchristianrbuerano%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:sairenchristianrbuerano@gmail.com)
