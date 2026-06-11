@@ -3,7 +3,7 @@
 **Full-Stack Software Engineer** · ~5 years shipping production software · Open to part-time & freelance work
 
 🏢 Software Engineer at **[Trustabl AI](https://trustabl.ai)** · previously **[Hooli Software](https://www.hoolisoftware.com/services/)** and **[Carbonetes](https://www.carbonetes.com)**
-🔧 Member of the **[Jenkins CI](https://github.com/jenkinsci)** GitHub organization
+🔧 Member of the **[Jenkins CI](https://github.com/jenkinsci)** GitHub organization — [verify here](https://github.com/orgs/jenkinsci/people?query=sairen)
 📍 Philippines 🇵🇭
 
 I build and maintain real-world systems — from enterprise security platforms to AI agent tooling — and I care about shipping reliable, well-documented code that businesses can depend on.
