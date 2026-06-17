@@ -13,7 +13,7 @@ I build and maintain real-world systems — from enterprise security platforms t
 [![Email](https://img.shields.io/badge/Email-sairenchristianrbuerano%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:sairenchristianrbuerano@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sairen%20Buerano-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sairen-christian-r-buerano-43892727b/)
 [![OnlineJobs.ph](https://img.shields.io/badge/OnlineJobs.ph-Profile-2E7D32)](https://v2.onlinejobs.ph/jobseekers/info/709812)
-[![JobStreet](https://img.shields.io/badge/JobStreet-View_Profile-0056b3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDEgMC04LTMuNTktOC04czMuNTktOCA4LTggOCAzLjU5IDggOC0zLjU5IDgtOCA4eiIvPjxwYXRoIGQ9Ik0xMiA2djZsNCAyIiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz48L3N2Zz4=)](https://jobstreet.sairenchristianbuerano.github.io)---
+[![JobStreet.ph](https://img.shields.io/badge/ph.jobstreet.com-Profile-2E7D32)](https://ph.jobstreet.com/profiles/sairenchristian-buerano-7cKbMKLRCp)
 
 ## 🚀 Featured Work
 
