@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer** · ~5 years shipping production software · Open to part-time & freelance work
 
-🏢 Software Engineer at **[Trustabl AI](https://trustabl.ai)** · previously **[Hooli Software](https://www.hoolisoftware.com/services/)** and **[Carbonetes](https://www.carbonetes.com)**
+🏢 Software Engineer at **[Trustabl AI](https://trustabl.ai)** · previously **[Component Factory](https://www.componentfactory.ai)**, **[Hooli Software](https://www.hoolisoftware.com/services/)** and **[Carbonetes](https://www.carbonetes.com)**
 🔧 Member of the **[Jenkins CI](https://github.com/jenkinsci)** GitHub organization — [verify here](https://github.com/orgs/jenkinsci/people?query=sairen)
 🌐 Portfolio: **[sairenchristianbuerano.github.io/portfolio](https://sairenchristianbuerano.github.io/portfolio/)**
 📍 Philippines 🇵🇭
@@ -12,9 +12,9 @@ I build and maintain real-world systems — from enterprise security platforms t
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-FF5A00?logo=googlechrome&logoColor=white)](https://sairenchristianbuerano.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-sairenchristianrbuerano%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:sairenchristianrbuerano@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sairen%20Buerano-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sairen-christian-r-buerano-43892727b/)
-[![JobStreet](https://img.shields.io/badge/JobStreet-View_Profile-0056b3)](https://ph.jobstreet.com/profiles/sairenchristian-buerano-7cKbMKLRCp)
 [![OnlineJobs.ph](https://img.shields.io/badge/OnlineJobs.ph-Profile-2E7D32)](https://v2.onlinejobs.ph/jobseekers/info/709812)
 
+---
 
 ## 🚀 Featured Work
 
@@ -73,6 +73,7 @@ Security tooling (SAST, SBOM, vulnerability scanning) · REST APIs · Git · CI/
 ## 💼 Experience
 
 - **Software Engineer @ [Trustabl AI](https://trustabl.ai)** *(current)* — AI agent reliability & tool hardening; built the entire CI/CD integration suite above
+- **Software Engineer @ [Component Factory](https://www.componentfactory.ai)** *(Nov 2025 – Mar 2026)* — built Stable Innovations, an AI agent component platform; Golang, Python, Next.js, PostgreSQL, Docker, Tailwind, TypeScript
 - **Software Engineer @ [Hooli Software](https://www.hoolisoftware.com/services/)** — software development services
 - **Software Engineer @ [Carbonetes](https://www.carbonetes.com)** — container application security platform (SaaS); shipped open-source scanners
 
