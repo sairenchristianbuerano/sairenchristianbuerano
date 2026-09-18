@@ -27,7 +27,7 @@ Designed, built, and published the full CI/CD integration lineup for [Trustabl](
 | GitHub | [Composite Action](https://github.com/trustabl/actions) | [GitHub Marketplace](https://github.com/marketplace/actions/trustabl) |
 | GitLab | [CI/CD Component](https://gitlab.com/trustabl-ai/components) | GitLab CI/CD Catalog |
 | Azure DevOps | [Pipeline Task Extension](https://github.com/trustabl/trustabl-azure-devops) | [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Trustabl.trustabl-azure-devops-extension) |
-| Bitbucket | Pipelines Pipe | [Docker Hub](https://hub.docker.com/r/trustabl/trustabl-pipe) |
+| Bitbucket | [Pipelines Pipe](https://bitbucket.org/hoolisoftware/trustabl-pipe/src) | [Docker Hub](https://hub.docker.com/r/trustabl/trustabl-pipe) |
 
 *Bash, TypeScript, Docker, jq, four different CI/CD platform APIs — same scoring engine, four native developer experiences.*
 
