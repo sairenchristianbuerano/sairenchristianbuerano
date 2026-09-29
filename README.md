@@ -24,12 +24,24 @@ Designed, built, and published the full CI/CD integration lineup for [Trustabl](
 
 | Platform | Integration | Where it lives |
 |---|---|---|
-| GitHub | [Composite Action](https://github.com/trustabl/actions) | [GitHub Marketplace](https://github.com/marketplace/actions/trustabl) |
+| GitHub | [Composite Action](https://github.com/trustabl/actions) | [GitHub Marketplace](https://github.com/marketplace/actions/trustabl-fix-agent-reliability-issues) |
 | GitLab | [CI/CD Component](https://gitlab.com/trustabl-ai/components) | GitLab CI/CD Catalog |
 | Azure DevOps | [Pipeline Task Extension](https://github.com/trustabl/trustabl-azure-devops) | [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Trustabl.trustabl-azure-devops-extension) |
 | Bitbucket | [Pipelines Pipe](https://bitbucket.org/hoolisoftware/trustabl-pipe/src) | [Docker Hub](https://hub.docker.com/r/trustabl/trustabl-pipe) |
 
 *Bash, TypeScript, Docker, jq, four different CI/CD platform APIs — same scoring engine, four native developer experiences.*
+
+### Published to the AI agent tool directories
+
+Took Trustabl from "available if you know the link" to listed in the catalogues developers actually browse. Each listing meant meeting that platform's own review bar: manifest format, security scanning, and in one case a human reviewer.
+
+| Directory | What I shipped | Status |
+|---|---|---|
+| [MCP Registry](https://registry.modelcontextprotocol.io/?q=trustabl) | `server.json` + OCI ownership attestation, published with `mcp-publisher` | Live — `io.github.trustabl/agent-reliability-analyzer` |
+| [Claude Directory](https://claude.ai/directory) | [Plugin](https://github.com/trustabl/claude-plugin) with 2 skills, 2 commands, a subagent and a bundled MCP server | Published — passed the security scan and reviewer |
+| [in-toto](https://github.com/in-toto/friends/pull/122) | Supply-chain attestation integration | Submitted |
+
+*Testing each listing the way a new user would — installing from the published entry rather than the repo — caught a defect that every automated validator had passed.*
 
 ### Trustabl core — the scanner behind the suite
 
