@@ -45,20 +45,20 @@ Took Trustabl from "available if you know the link" to listed in the catalogues 
 
 ### Trustabl core — the scanner behind the suite
 
-| Project | What it does |
-|---|---|
-| [trustabl](https://github.com/trustabl/trustabl) | Static reliability/safety analyzer for AI agent repos (Claude Agent SDK, OpenAI Agents SDK, Google ADK, MCP) |
-| [trustabl-rules](https://github.com/trustabl/trustabl-rules) | Detection rule packs powering the scanner — resolved at scan time, no rebuild needed |
+| Project | What it does | Stars | Downloads |
+|---|---|---|---|
+| [agent-reliability-analyzer](https://github.com/trustabl/agent-reliability-analyzer) | Static reliability/safety analyzer for AI agent repos (Claude Agent SDK, OpenAI Agents SDK, Google ADK, MCP) | ![Stars](https://img.shields.io/github/stars/trustabl/agent-reliability-analyzer?style=flat&label=%E2%AD%90&labelColor=1b1f23&color=1b1f23) | ![Downloads](https://img.shields.io/github/downloads/trustabl/agent-reliability-analyzer/total?style=flat&label=%E2%AC%87&labelColor=1b1f23&color=2ea043) |
+| [agent-reliability-rules](https://github.com/trustabl/agent-reliability-rules) | Detection rule packs powering the scanner — resolved at scan time, no rebuild needed | ![Stars](https://img.shields.io/github/stars/trustabl/agent-reliability-rules?style=flat&label=%E2%AD%90&labelColor=1b1f23&color=1b1f23) | ![Downloads](https://img.shields.io/github/downloads/trustabl/agent-reliability-rules/total?style=flat&label=%E2%AC%87&labelColor=1b1f23&color=2ea043) |
 
 ### Open-source security tooling — Carbonetes
 
 Contributor to security tools used by real organizations:
 
-| Project | What it does |
-|---|---|
-| [Jacked](https://github.com/carbonetes/jacked) ⭐100+ | Vulnerability scanner |
-| [Diggity](https://github.com/carbonetes/diggity) ⭐100+ | SBOM generator |
-| [BrainIAC](https://github.com/carbonetes/brainiac) | IaC static analysis |
+| Project | What it does | Stars | Downloads |
+|---|---|---|---|
+| [Jacked](https://github.com/carbonetes/jacked) | Vulnerability scanner | ![Stars](https://img.shields.io/github/stars/carbonetes/jacked?style=flat&label=%E2%AD%90&labelColor=1b1f23&color=1b1f23) | ![Downloads](https://img.shields.io/github/downloads/carbonetes/jacked/total?style=flat&label=%E2%AC%87&labelColor=1b1f23&color=2ea043) |
+| [Diggity](https://github.com/carbonetes/diggity) | SBOM generator | ![Stars](https://img.shields.io/github/stars/carbonetes/diggity?style=flat&label=%E2%AD%90&labelColor=1b1f23&color=1b1f23) | ![Downloads](https://img.shields.io/github/downloads/carbonetes/diggity/total?style=flat&label=%E2%AC%87&labelColor=1b1f23&color=2ea043) |
+| [BrainIAC](https://github.com/carbonetes/brainiac) | IaC static analysis | ![Stars](https://img.shields.io/github/stars/carbonetes/brainiac?style=flat&label=%E2%AD%90&labelColor=1b1f23&color=1b1f23) | ![Downloads](https://img.shields.io/github/downloads/carbonetes/brainiac/total?style=flat&label=%E2%AC%87&labelColor=1b1f23&color=2ea043) |
 
 ---
 
